@@ -28,3 +28,4 @@ This is a not so simple todo application that implements CRUD functionality. You
    ```
 
 And that should do it. Have fun with the app.
+
